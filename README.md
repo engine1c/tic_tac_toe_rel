@@ -4,6 +4,8 @@ mastorramos@gmail.com
 
 2024 (c) 
 
+on Flutter!
+
 A simple game for any age!
 
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_001.png)
