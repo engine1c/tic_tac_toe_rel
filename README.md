@@ -89,9 +89,6 @@ provider, flutter bloc, equatable
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_012.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_013.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_014.png)
-![Tic-Tac-Toe :) ](images/tic_tac_toe_015.png)
-![Tic-Tac-Toe :) ](images/tic_tac_toe_016.png)
-![Tic-Tac-Toe :) ](images/tic_tac_toe_017.png)
 
 
 
