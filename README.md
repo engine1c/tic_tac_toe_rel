@@ -8,7 +8,7 @@ on Flutter!
 
 A simple game for any age!
 
-![Tic-Tac-Toe :) ](images/tic_tac_toe_001.png)
+![Tic-Tac-Toe :) ](images/tic_tac_toe_013.png)
 
 Has 3 difficulty levels. I have an opportunity:
 1. Choose a light or dark theme. 2. Disable or enable sounds.
