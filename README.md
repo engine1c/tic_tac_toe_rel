@@ -77,7 +77,6 @@ image, path, connectivity
 shared preferences, dotenv
 provider, flutter bloc, equatable
 
-![Tic-Tac-Toe :) ](images/tic_tac_toe_001.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_0_1.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_002.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_003.png)
