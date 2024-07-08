@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
 
-mastorramos@gmail.com
+i9engine.app@gmail.com
+
+https://play.google.com/store/apps/details?id=com.mysuper.krestik_nolik&pli=1
 
 2024 (c) 
 
@@ -76,6 +78,7 @@ shared preferences, dotenv
 provider, flutter bloc, equatable
 
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_001.png)
+![Tic-Tac-Toe :) ](images/tic_tac_toe_0_1.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_002.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_003.png)
 ![Tic-Tac-Toe :) ](images/tic_tac_toe_004.png)
